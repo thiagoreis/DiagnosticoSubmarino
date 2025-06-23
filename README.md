@@ -21,7 +21,5 @@ Execute via terminal:
 
 ```bash
 dotnet run
+dotnet test .\tests\DiagnosticoSubmarino.Tests\DiagnosticoSubmarino.Tests.csproj
 
-executar testes
-```bash
- dotnet test .\tests\DiagnosticoSubmarino.Tests\DiagnosticoSubmarino.Tests.csproj
